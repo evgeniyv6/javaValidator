@@ -1,0 +1,12 @@
+.idea/*
+!.idea/codeStyles/
+*.iml
+target/
+work/
+.classpath
+.project
+.settings/
+*.sublime*
+tmp/
+src/test/resources/com/datapipe/jenkins/vault/util/ssl/
+.DS_Store
